@@ -9,3 +9,9 @@ sites/site*/public/theme/
 textpattern/
 HISTORY.txt
 README.txt
+
+node_modules/
+.env
+build/
+.idea/
+coverage/
