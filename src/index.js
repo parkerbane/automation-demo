@@ -20,7 +20,7 @@ app.use(morgan("combined"));
 app.get('/', (req, res) => {
     res.status(200).json({
         status: 'success',
-        data: 'Welcome to Automation Demo !!!'
+        data: 'Welcome to Automation Demo, Hope you are having a nice time !!!'
     });
 });
 
